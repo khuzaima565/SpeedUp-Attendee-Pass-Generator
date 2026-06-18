@@ -1,0 +1,6 @@
+{
+  "name": "Attendee Card Generator",
+  "description": "Generate custom 1080x1080 event attendance poster cards instantly from form details completely offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
